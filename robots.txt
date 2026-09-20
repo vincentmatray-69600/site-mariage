@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vincentmatray-69600.github.io/site-mariage/sitemap.xml
